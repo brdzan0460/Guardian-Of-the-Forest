@@ -44,6 +44,7 @@ SPACE + SPACE = WHILE MID AIR SLAM DOWN
 
 - You have 3 HP and if you get hit by enemies you lose one, you can see them in left top corner. If you get hit you become temporarly invincible as long as the "hurt" animation is active. 
 
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Damage.PNG)
 
 
 - If you fall down you die immiedietly
@@ -52,10 +53,19 @@ SPACE + SPACE = WHILE MID AIR SLAM DOWN
 
 - Dashes and slam downs can kill the enemies!
 
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Enemy-1.PNG)
+
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Enemy-2.PNG)
+
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Dash.PNG)
+
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/slam.PNG)
+
 
 
 - Collecting the blue souls gives you points! 
 
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/soul.PNG)
 
 
 - The purple objects in the game will hurt you while you touch them wheather it is enemy or the purple block. 
