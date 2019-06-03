@@ -14,15 +14,29 @@ And the crow dissapears as suddenly as it appeared. You sit there in the darknes
 
 - A = LEFT WALK
 
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/move_left.PNG)
+
 - D = RIGHT WALK
+
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/move_right.PNG)
+
 
 - Q = LEFT DASH 
 
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/poison.PNG)
+
 - E = RIGHT DASH
+
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Dash.PNG)
 
 SPACE = JUMP
 
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Jump.PNG)
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/fall.PNG)
+
 SPACE + SPACE = WHILE MID AIR SLAM DOWN
+
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/slam.PNG)
 
 ### Features 
 
