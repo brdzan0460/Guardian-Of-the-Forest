@@ -1,0 +1,95 @@
+{
+	"layout": {
+		"scale": 64,
+		"size": [39, 9],
+		"start": [1, 7],
+		"goal": [37, 3, 2, 5]
+	},
+
+	"physics": {
+		"gravity": 2,
+		"terminal_velocity": 36
+	},
+
+	"music": "assets/sounds/theme.ogg",
+
+	"background": {
+		"color": [0, 0, 0],
+		"image1": "assets/images/backgrounds/Skyline.png",
+		"image2": "assets/images/backgrounds/Mountain.png",
+		"parallax_speed1": 0.1,
+		"parallax_speed2": 0.0
+	},
+
+	"tiles": {
+		"midground": [
+			[37.8, 4, "FlagTop"],
+			[37.8, 5, "FlagPole"],
+			[37.8, 6, "FlagPole"],
+			[37.8, 7, "FlagPole"]
+		],
+
+		"main": [
+			[1, 8, "P2"],
+			[2, 8, "P2"],
+			[3, 8, "P2"],
+			[0, 8, "P1"],
+			[4, 8, "P2"],
+			[5, 8, "P2"],
+			[6, 8, "P3"],
+			
+			[12,6, "P2"],
+
+			[17,5, "P2"],
+
+			[21,6, "P2"],
+
+			[26,6, "P2"], 
+
+			[31,6, "P2"],
+
+			[35,6, "P2"],
+
+			[38,8, "P1"],
+			[39,8, "P3"]
+		],
+
+		"foreground": [
+		]
+	},
+
+	"items": [
+		[10, 2, "Gem"],
+		[20, 4, "Gem"],
+		[29, 5, "Gem"],
+		[34, 3, "Gem"]
+	],
+
+	"enemies": [
+		[10, 2, "Spike"],
+		[10, 3, "Spike"],
+		[10, 6, "Spike"],
+
+		[15, 2, "Spike"],
+		[15, 5, "Spike"],
+		[15, 6, "Spike"],
+
+		[19, 1, "Spike"],
+		[19, 4, "Spike"],
+		[19, 5, "Spike"],
+
+		[23, 2, "Spike"],
+		[24, 2, "Spike"],
+		[25, 2, "Spike"],
+		[26, 2, "Spike"],
+		[27, 2, "Spike"],
+		[28, 2, "Spike"],
+		[29, 2, "Spike"],
+		[31, 2, "Spike"],
+		[32, 2, "Spike"]
+
+
+
+	]
+
+}
