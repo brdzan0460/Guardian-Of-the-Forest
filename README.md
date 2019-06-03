@@ -104,13 +104,15 @@ https://freesound.org/
 
 ### Start Screen
 
-
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Start_screen.PNG)
 
 ### In Game
 
-
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Mid_Game.PNG)
 
 ### Death Screen
+
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Death.PNG)
 
 ## Download Link 
 
