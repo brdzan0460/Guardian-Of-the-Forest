@@ -12,6 +12,8 @@ And the crow dissapears as suddenly as it appeared. You sit there in the darknes
 
 ### Controls 
 
+- PRESS 1 TO END THE GAME
+
 - A = LEFT WALK
 
 ![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Move_left.PNG)
