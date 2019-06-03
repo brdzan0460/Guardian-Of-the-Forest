@@ -8,7 +8,9 @@ You wake up. Lost. Confused. Surrounded by the endless forest. You can feel that
 
 And the crow dissapears as suddenly as it appeared. You sit there in the darkness.... as lost and confused as you were. But now you have goal so there is no point in waiting. you start heading in the way that crow dissapeared. And then you learn what crow meaned by the corruption. There are those weird beings made out of moving slime, infecting everything. You are afraid of them but you feel the new power flowing through you. You head to face your destiny, hoping that you will get to see the forest in its beautiful, clean form.
 
-## Controls 
+## Description
+
+### Controls 
 
 - A = LEFT WALK
 
@@ -22,7 +24,7 @@ SPACE = JUMP
 
 SPACE + SPACE = WHILE MID AIR SLAM DOWN
 
-## Features 
+### Features 
 
 
 
@@ -55,7 +57,7 @@ SPACE + SPACE = WHILE MID AIR SLAM DOWN
 
 
 
-## Scoring
+### Scoring
 
 - Collecting soul = 20 Points
 
