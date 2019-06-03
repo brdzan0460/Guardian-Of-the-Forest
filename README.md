@@ -10,13 +10,13 @@ And the crow dissapears as suddenly as it appeared. You sit there in the darknes
 
 ## Controls 
 
-A = LEFT WALK
+- A = LEFT WALK
 
-D = RIGHT WALK
+- D = RIGHT WALK
 
-Q = LEFT DASH 
+- Q = LEFT DASH 
 
-E = RIGHT DASH
+- E = RIGHT DASH
 
 SPACE = JUMP
 
@@ -26,40 +26,40 @@ SPACE + SPACE = WHILE MID AIR SLAM DOWN
 
 
 
-You have 3 HP and if you get hit by enemies you lose one, you can see them in left top corner. If you get hit you become temporarly invincible as long as the "hurt" animation is active. 
+- You have 3 HP and if you get hit by enemies you lose one, you can see them in left top corner. If you get hit you become temporarly invincible as long as the "hurt" animation is active. 
 
 
 
-If you fall down you die immiedietly
+- If you fall down you die immiedietly
 
 
 
-Dashes and slam downs can kill the enemies!
+- Dashes and slam downs can kill the enemies!
 
 
 
-Collecting the blue souls gives you points! 
+- Collecting the blue souls gives you points! 
 
 
 
-The purple objects in the game will hurt you while you touch them wheather it is enemy or the purple block. 
+- The purple objects in the game will hurt you while you touch them wheather it is enemy or the purple block. 
 
 
 
-All enemies die in one hit!
+- All enemies die in one hit!
 
 
 
-There are no power-ups, the difficulty increase in form of level layout. The further you go levels become harder and there is no health regeneration 
+- There are no power-ups, the difficulty increase in form of level layout. The further you go levels become harder and there is no health regeneration 
 
 
 
 
 ## Scoring
 
-Collecting soul = 20 Points
+- Collecting soul = 20 Points
 
-Killing enemies = 30 Points
+- Killing enemies = 30 Points
 
 
 
