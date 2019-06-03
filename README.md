@@ -48,7 +48,7 @@ SPACE + SPACE = WHILE MID AIR SLAM DOWN
 
 ![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Enemy-1.PNG)
 ![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Enemy-2.PNG)
-![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Damage.PNG)
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/poison.PNG)
 
 
 
