@@ -14,7 +14,7 @@ And the crow dissapears as suddenly as it appeared. You sit there in the darknes
 
 - A = LEFT WALK
 
-![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/move_left.PNG)
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Move_left.PNG)
 
 - D = RIGHT WALK
 
