@@ -23,7 +23,7 @@ And the crow dissapears as suddenly as it appeared. You sit there in the darknes
 
 - Q = LEFT DASH 
 
-![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/poison.PNG)
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/dash_2.PNG)
 
 - E = RIGHT DASH
 
