@@ -47,6 +47,9 @@ SPACE + SPACE = WHILE MID AIR SLAM DOWN
 - The purple objects in the game will hurt you while you touch them wheather it is enemy or the purple block. 
 
 ![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Enemy-1.PNG)
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Enemy-2.PNG)
+![screenshot](https://raw.githubusercontent.com/brdzan0460/Guardian-Of-the-Forest/master/Damage.PNG)
+
 
 
 - All enemies die in one hit!
